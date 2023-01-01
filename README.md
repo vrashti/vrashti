@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vrashti
+- 👋 Hi, I’m Varsha Patel
 - 👀 I’m interested in Java Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Java Server based dynamic projects
